@@ -12,3 +12,6 @@ Download to c:\mini_house (path is important to get all used resources), open ho
 #### Screenshots:
 ![Screenshot 1](/screenshots/view1.png)
 ![Screenshot 2](/screenshots/view2.png)
+
+#### Render:
+![Render](final_render.png)
